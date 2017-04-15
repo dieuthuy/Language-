@@ -98,7 +98,8 @@ or
         alert(obj.a + obj.b + obj.return); //6
      ```
      
- *** prompt and print ***
+     
+*** prompt and print ***
 
       ```
           function dieuthuy()
@@ -111,6 +112,7 @@ or
                 };
             let user= dieuthuy();
             alert(user.name + user.age);
+        ```
       
       `name: name` ==> `name,`
       
