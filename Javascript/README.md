@@ -40,7 +40,7 @@
 
   ![Atom](http://javascript.info/article/object/object-user-isadmin@2x.png)
   
-***d) you can remove with `Delete` : ***
+***d) you can remove with  ***  `Delete` :
 
     ``` Delete user.age;   ```
     
