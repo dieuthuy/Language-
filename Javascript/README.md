@@ -40,13 +40,13 @@
 
   ![Atom](http://javascript.info/article/object/object-user-isadmin@2x.png)
   
-***d) you can remove with `Delete` : 
+***d) you can remove with `Delete` : ***
 
     ``` Delete user.age;   ```
     
    ![Atom](http://javascript.info/article/object/object-user-delete@2x.png)
    
-***e) you can also use multiword property names, but then they must be quoted:
+***e) you can also use multiword property names, but then they must be quoted:***
 
   ```
     let user ={
@@ -101,6 +101,7 @@ or
      
 *** prompt and print ***
 
+
       ```
           function dieuthuy()
             {
@@ -114,9 +115,9 @@ or
             alert(user.name + user.age);
         ```
       
-      `name: name` ==> `name,`
+   `name: name` ==> `name,`
       
-      `age:age` ==> `age,`
+   `age:age` ==> `age,`
       
 again:
 
